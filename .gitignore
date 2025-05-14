@@ -1,0 +1,7 @@
+# Arduino
+*.ino.*
+*.cpp.*
+*.h.*
+build/
+.vs/
+*.log
